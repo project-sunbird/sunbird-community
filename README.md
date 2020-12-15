@@ -5,12 +5,12 @@ The Sunbird Community consists of all the people using Sunbird and/or giving the
 
 ## What ways can you contribute to Sunbird Community?
 
-### Bugs
+### Resolving Bugs
 
-### New Features
+### Adding New Features
 
-### Documentation
+### Adding or Refining Documentation
 
 ### Reviewing Contributions
 
-### Validating Issues
+### Validating Issue Fixes
